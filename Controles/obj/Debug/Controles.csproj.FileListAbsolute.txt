@@ -1,0 +1,13 @@
+C:\Users\Fernando\Desktop\GirlsFitness\GirlsFitness\Controles\bin\Debug\Controles.dll
+C:\Users\Fernando\Desktop\GirlsFitness\GirlsFitness\Controles\bin\Debug\Controles.pdb
+C:\Users\Fernando\Desktop\GirlsFitness\GirlsFitness\Controles\obj\Debug\Controles.TexBoxSoloNum.resources
+C:\Users\Fernando\Desktop\GirlsFitness\GirlsFitness\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\GirlsFitness\GirlsFitness\Controles\obj\Debug\Controles.dll
+C:\Users\Fernando\Desktop\GirlsFitness\GirlsFitness\Controles\obj\Debug\Controles.pdb
+D:\Proyectos\GirlFitness\GYM\GirlsFitness\Controles\bin\Debug\Controles.dll
+D:\Proyectos\GirlFitness\GYM\GirlsFitness\Controles\bin\Debug\Controles.pdb
+D:\Proyectos\GirlFitness\GYM\GirlsFitness\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+D:\Proyectos\GirlFitness\GYM\GirlsFitness\Controles\obj\Debug\Controles.TexBoxSoloNum.resources
+D:\Proyectos\GirlFitness\GYM\GirlsFitness\Controles\obj\Debug\Controles.csproj.GenerateResource.Cache
+D:\Proyectos\GirlFitness\GYM\GirlsFitness\Controles\obj\Debug\Controles.dll
+D:\Proyectos\GirlFitness\GYM\GirlsFitness\Controles\obj\Debug\Controles.pdb
